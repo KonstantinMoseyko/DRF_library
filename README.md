@@ -35,8 +35,9 @@ Django + Django ORM + DRF + Postgres
      python manage.py create_data
      python manage.py runserver
      ```
-     Приложение будет доступно по адресу http://127.0.0.1:8000/api/
-
+     Приложение будет доступно по адресу http://127.0.0.1:8000/api/ \
+     Swagger - http://127.0.0.1:8000/swagger \
+     GraphQL - http://127.0.0.1:8000/graphql
 
 ## Инструкция по запуску docker-compose
     
